@@ -1,5 +1,7 @@
 # HtmlToMD
 
+🌐 [English](README_EN.md) | [中文](README.md) —— 📦 [Download Browser Extension](https://pan.quark.cn/s/adaa6c4bc491)
+
 A Python desktop tool that converts HTML to Markdown. Supports URL fetching and local file conversion, with automatic article content extraction and image downloading.
 
 ![Preview](./images/pic_zh_1.png)

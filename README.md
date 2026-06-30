@@ -1,5 +1,7 @@
 # HtmlToMD
 
+🌐 [English](README_EN.md) | [中文](README.md) —— 📦 [浏览器插件下载](https://pan.quark.cn/s/adaa6c4bc491)
+
 一个将 HTML 转换为 Markdown 的 Python 桌面工具，支持 URL 抓取和本地文件转换，自动提取正文内容并下载图片。
 
 ![预览图](./images/pic_zh_1.png)
